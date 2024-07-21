@@ -1,3 +1,3 @@
 # Trillo
 
-A FlexBox mastery based application
+A FlexBox-Scss mastery based application
