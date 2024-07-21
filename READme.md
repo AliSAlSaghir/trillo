@@ -1,3 +1,3 @@
 # Trillo
 
-A FlexBox-Scss mastery based  responsive application
+A FlexBox-Scss mastery based  responsive website
